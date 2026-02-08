@@ -1,0 +1,21 @@
+# Xcode
+.DS_Store
+*/xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+build/
+*.swp
+*.back
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+Package.resolved
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
